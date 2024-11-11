@@ -1,4 +1,4 @@
-localStorage
+
 
 function estTriangleRectangle(a: number, b: number, c: number): boolean {
   let hypotenuse: number, cote1: number, cote2: number;
